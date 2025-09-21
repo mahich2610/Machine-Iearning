@@ -12,4 +12,4 @@
 - Освоить команды git add, commit, push.
 - Научиться визуализировать результаты анализа.
 
-![Пример изображения](resources/my_image.png)
+![Пример изображения](resources/lighthouse.png)
